@@ -1,0 +1,1 @@
+This repo is an experimental playground for OpenAPI specs that have been written from APIs that are already available. Currently, the repo contains the OpenAPI spec for the Amazon EC2 API - DescribeAvailabilityZones.
